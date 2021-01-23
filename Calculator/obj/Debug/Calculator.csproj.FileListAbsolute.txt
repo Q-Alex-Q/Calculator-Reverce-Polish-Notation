@@ -1,0 +1,6 @@
+C:\C# HW-5 Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\C# HW-5 Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\C# HW-5 Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\C# HW-5 Calculator\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\C# HW-5 Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\C# HW-5 Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
